@@ -2,26 +2,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //---------⚠️ 𝗪𝗮𝗿𝗻𝗶𝗻𝗴 ⚠️-----------\\
-global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or you'll get errors ⚠️//
+global.simpleBotname = "❄️𝐍𝐞𝐫𝐨 𝐁𝐨𝐭❄️" //⚠️ Only use normal and one work name here or you'll get errors ⚠️//
 
              //--------Owner & vcard--------\\
-             global.botname = "Queen Anya" 
-             global.ownernumber = ['918811074852'] // Owner number //
-             global.vcardowner = ['918811074852'] // vcard owner number //
-             global.ownername = "3.69_Pika" // Owner name //
-             global.ytname = "YT: ONYXPIKA" // Yt chanel name //
-             global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : Pika4o4" // Github or insta name //
+             global.botname = "❄️𝐍𝐞𝐫𝐨 𝐁𝐨𝐭❄️" 
+             global.ownernumber = ['212645830816'] // Owner number //
+             global.vcardowner = ['212645830816'] // vcard owner number //
+             global.ownername = "♦️𝐠𝐨𝐳𝐨 - 𝐬𝐚𝐦𝐚♦️" // Owner name //
+             global.ytname = "YT: ♦️𝐠𝐨𝐳𝐨 - 𝐬𝐚𝐦𝐚♦️" // Yt chanel name //
+             global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : dabi" // Github or insta name //
              global.location = "India, Assam, Dibrugarh" // Location //
-             global.owner = ['918811074852','917355622763','919673141317']
-             global.ownertag = '918811074852' // Tag number //
-             global.linkz = "https://wa.me/+918811074852" // Theme url which will be displayed on whatsapp //
+             global.owner = ['212645830816','212645830816','212645830816']
+             global.ownertag = '212645830816' // Tag number //
+             global.linkz = "https://wa.me/+212645830816" // Theme url which will be displayed on whatsapp //
              global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
              global.botscript = 'https://github.com/PikaBotz/Anya-pika-MD-v2' // Script link //
-             global.packname = "𝐴𝑛𝑦𝑎💫 вσᡶ 𝖻ꪗ ρỉƙꪖ" // sticker watermark packname //
-             global.author = "🥵3.69_ρỉƙꪖ" // sticker watermark author //
-             actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of welcome and left message //
-             global.premium = ['918811074852'] // premium numbers //
-             global.headerText = "Anya by Pika" // text for header of menus //
+             global.packname = "❄️𝐍𝐞𝐫𝐨❄" // sticker watermark packname //
+             global.author = "❄️𝐁𝐨𝐭❄️" // sticker watermark author //
+             actiontitle = '࿙❄️𝐍𝐞𝐫𝐨 𝐁𝐨𝐭❄️࿚' // text who displays on the top of welcome and left message //
+             global.premium = ['212645830816'] // premium numbers //
+             global.headerText = "❄ 𝐠𝐨𝐳𝐨 - 𝐍𝐞𝐫𝐨 ❄" // text for header of menus //
              global.waterMark = "×͜× Pika™ ✓" // Your own watermark //
 
 global.prefa = ['/','-']
